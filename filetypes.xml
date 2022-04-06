@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="18">
-    <extensionMap>
-      <mapping pattern=".nojekyll" type="AUTO_DETECTED" />
-      <removed_mapping ext="md" type="Markdown" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
