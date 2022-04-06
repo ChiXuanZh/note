@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".nojekyll" type="AUTO_DETECTED" />
-      <removed_mapping ext="md" type="Markdown" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
     </extensionMap>
   </component>
 </application>
