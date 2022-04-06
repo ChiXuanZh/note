@@ -12,9 +12,20 @@
   <div id="app">加载中...</div>
   <script>
     window.$docsify = {
+      el: '#app',
       name: '目录',
+      repo: 'https://github.com/WIFEW/note',
       autoHeader: true,
-      loadSidebar: true
+      loadSidebar: true,
+      coverpage: true,
+      onlyCover: false,
+      maxLevel: 6,
+      subMaxLevel: 3,
+      // relativePath: true,
+      mergeNavbar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
     }
   </script>
   <!-- Docsify v4 -->
